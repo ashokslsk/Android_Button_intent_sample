@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ButtonScreen</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="labelfor_1st_screen">This is first screen</string>
+    <string name="button_for_first_screen">press this to go to scecond screen</string>
+    <string name="secondscreen">YOu have succefully created two screen activities </string>
+
+</resources>
